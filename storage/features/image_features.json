@@ -1,0 +1,11 @@
+{
+    "valid": false,
+    "success": false,
+    "error": "Image file not found: sample_data/sample.jpg",
+    "image_name": "sample.jpg",
+    "image_size": {},
+    "feature_shape": [],
+    "image_embedding": null,
+    "embedding": null,
+    "metadata": {}
+}
